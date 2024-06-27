@@ -2,11 +2,7 @@ export const categories = [
   {
     text: 'Restaurants',
     img: require('@/assets/data/c1.png'),
-  },
-  {
-    text: 'Grocery',
-    img: require('@/assets/data/c2.png'),
-  },
+  },  
   {
     text: 'Offers',
     img: require('@/assets/data/c3.png'),
@@ -14,15 +10,7 @@ export const categories = [
   {
     text: 'Pickup',
     img: require('@/assets/data/c4.png'),
-  },
-  {
-    text: 'HOP',
-    img: require('@/assets/data/c5.png'),
-  },
-  {
-    text: 'Pharmacy',
-    img: require('@/assets/data/c6.png'),
-  },
+  }, 
 ];
 
 export const restaurants = [
