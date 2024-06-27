@@ -13,5 +13,10 @@ I have developed this react native app using typescript. this app contains a bas
 
 # Screenshots
 ![WhatsApp Image 2024-06-27 at 23 19 20_77d650b0](https://github.com/LogesS25/Pizza_ReactNative/assets/122730945/2f2b758c-d772-4577-9876-64841107dd3e)
+![WhatsApp Image 2024-06-27 at 23 19 21_de775c52](https://github.com/LogesS25/Pizza_ReactNative/assets/122730945/5be49a93-2973-4317-9ca9-f749448c9d96)
+![WhatsApp Image 2024-06-27 at 23 19 21_0e679a8a](https://github.com/LogesS25/Pizza_ReactNative/assets/122730945/98a948d0-c231-4388-99dc-c592b921406e)
+![WhatsApp Image 2024-06-27 at 23 19 22_c0c5a8a8](https://github.com/LogesS25/Pizza_ReactNative/assets/122730945/3d38179d-ebe1-43fb-a02c-227b44198ee3)
+
+
 
 
